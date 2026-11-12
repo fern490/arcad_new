@@ -1,0 +1,9 @@
+/* Estilos globales mínimos. Cada pantalla trae sus propios estilos. */
+body {
+  margin: 0;
+  background: #04020e;
+}
+
+#root {
+  min-height: 100svh;
+}
